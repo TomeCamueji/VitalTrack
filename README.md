@@ -30,8 +30,12 @@ cada uma com funcionalidades específicas que ajudam a gerenciar diferentes aspe
 
 | ![vital](https://github.com/user-attachments/assets/22dc1146-92b4-4475-b69f-e1f051e1e538) | ![Captura de tela 2024-07-21 014646](https://github.com/user-attachments/assets/b5628fdb-cc3c-42b9-8816-b98d4f34cbaa) |
 | ![Captura de tela 2024-07-21 014715](https://github.com/user-attachments/assets/946243e1-099c-4152-baf8-c6efc91d9542) | ![tmbvital](https://github.com/user-attachments/assets/4bcf38f7-2dac-46d6-bfd6-c4b1e501f9fc) |
-| ![Captura de tela 2024-07-21 014909](https://github.com/user-attachments/assets/d5f8a5b0-d93e-4ba5-9565-06e3b1167c8f) | ![Captura de tela 2024-07-21 014946](https://github.com/user-attachments/assets/4fbe86a2-b302-4507-9280-774db66a91bb) |
-| ![Captura de tela 2024-07-21 015018](https://github.com/user-attachments/assets/d0bb0074-aa4a-4253-830d-86280f19f315) | ![Captura de tela 2024-07-21 015102](https://github.com/user-attachments/assets/a5e7a05b-fdf7-4b28-b5a8-bc0995347f94) |
+| ![aguavital](https://github.com/user-attachments/assets/48fec810-b7f5-4d86-9c52-cc353bb8d124) | ![farmavital](https://github.com/user-attachments/assets/4dae1011-29cb-48be-ae3c-58cf01c45e20) |
+| ![dicavital](https://github.com/user-attachments/assets/36149930-28ff-4fc5-bbae-60e1eec6fcc2) | ![susvital](https://github.com/user-attachments/assets/4def43c7-a6d0-4568-baa5-6c60d7958422) |
+
+
+
+
 
 
 
