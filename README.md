@@ -28,7 +28,7 @@ cada uma com funcionalidades específicas que ajudam a gerenciar diferentes aspe
 
 
 
-| ![Captura de tela 2024-07-21 023002](https://github.com/user-attachments/assets/a0beb552-1555-413a-803e-5c0d208a0886) | ![Captura de tela 2024-07-21 014646](https://github.com/user-attachments/assets/b5628fdb-cc3c-42b9-8816-b98d4f34cbaa) |
+| ![vital](https://github.com/user-attachments/assets/22dc1146-92b4-4475-b69f-e1f051e1e538) | ![Captura de tela 2024-07-21 014646](https://github.com/user-attachments/assets/b5628fdb-cc3c-42b9-8816-b98d4f34cbaa) |
 | ![Captura de tela 2024-07-21 014715](https://github.com/user-attachments/assets/946243e1-099c-4152-baf8-c6efc91d9542) | ![Captura de tela 2024-07-21 014804](https://github.com/user-attachments/assets/23882645-91b4-4c9b-996a-06823e18d5a5) |
 | ![Captura de tela 2024-07-21 014909](https://github.com/user-attachments/assets/d5f8a5b0-d93e-4ba5-9565-06e3b1167c8f) | ![Captura de tela 2024-07-21 014946](https://github.com/user-attachments/assets/4fbe86a2-b302-4507-9280-774db66a91bb) |
 | ![Captura de tela 2024-07-21 015018](https://github.com/user-attachments/assets/d0bb0074-aa4a-4253-830d-86280f19f315) | ![Captura de tela 2024-07-21 015102](https://github.com/user-attachments/assets/a5e7a05b-fdf7-4b28-b5a8-bc0995347f94) |
