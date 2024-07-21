@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">VitalTrack</string>
+    <string name="word"> Cuidar-se, prezando por sua saúde\n
+             nunca foi tão fácil.</string>
+    <string name="Title">Saúde \'&amp;\' Bem-Estar</string>
+    <string name="acess">  Acesse cada menu para saber como está sua saúde hoje.\n
+        Não deixe de se consultar, saúde deve ser sua prioridade.</string>
+    <string name="TMB">TMB</string>
+    <string name="IMC">IMC</string>
+    <string name="FARM">FARMAS</string>
+    <string name="DICAS">DICAS</string>
+    <string name="ÁGUA">ÁGUA</string>
+    <string name="sus">SUS</string>
+    <string name="imc_inf">  IMC é a sigla  para índice de massa corporal que serve para avaliar o peso do indivíduo em relação à sua altura
+    para indicar se está dentro do peso ideal, acima ou abaixo do peso desejado. Preencha os Campos para saber seu IMC.</string>
+
+    <string name="tmb_inf">A Taxa Metabólica Basasl (TMB) é o mínimo de energia necessária para manter as funções do organismo em repouso,
+    como os batimentos cardíacos, a respiração e a manutenção da temperatura corporal.</string>
+
+    <string name="Magreza">De acordo com a Organização Mundial da Saúde, seu IMC é considerado Abaixo do peso para sua altura.</string>
+    <string name="Normal">De acordo com a Organização Mundial da Saúde, seu IMC é considerado normal para a sua altura. </string>
+    <string name="Sobrepeso">De acordo com a Organização Mundial da Saúde, seu IMC está acima do recomendado para a sua altura.</string>
+    <string name="Obsid">De acordo com a Organização Mundial da Saúde, seu IMC está acima do recomendado, e seu caso é considerado obeso(a) para a sua altura. Para atingir um valor de IMC normal,
+        seu peso deve estar entre 35.8 e 54.5 kg.</string>
+    <string name="descr">Tua <font color="#29AFEB">SAÚDE</font><font color="#FF000000"> | </font>
+        <font color="#0C0CE7">REDE Dor</font>
+    </string>
+
+    <string name="List_response">Resultado: %1$.1f, data: %2$s</string>
+    <string name="res">Seu IMC é de\n
+        <font color="#FF000000">%1$.1f kg/m2</font></string>
+    <string name="tmb_response">sua taxa metabólica é de:
+        <font color="#FF000000">%1$.1f</font></string>
+    <string name="salved">Salvar</string>
+
+    <string name="dica1">Controlar o metabolismo pode ser uma parte crucial para manter um peso saudável e melhorar o bem-estar geral.</string>
+    <string name="dica2">Aqui estão oito dicas para ajudar a controlar e potencialmente aumentar seu metabolismo:</string>
+    <string name="dica">Manter uma dieta equilibrada: Consumir uma dieta rica em proteínas, fibras, frutas, vegetais e grãos integrais. Proteínas, em particular, podem aumentar temporariamente seu metabolismo após as refeições devido ao efeito térmico dos alimentos.\n
+Realizar exercícios físicos regularmente: Combinar exercícios aeróbicos (como caminhada, corrida ou natação) com treino de resistência (como levantamento de pesos). O treino de resistência ajuda a construir massa muscular, que pode aumentar a taxa metabólica basal.\n
+Hidratação adequada: Beber bastante água ao longo do dia. A desidratação pode reduzir a taxa metabólica. Água fria pode temporariamente aumentar o metabolismo, pois o corpo usa energia para aquecê-la até a temperatura corporal.
+Sono de qualidade: Dormir de 7 a 9 horas por noite. A falta de sono pode alterar hormônios reguladores do apetite e reduzir a taxa metabólica.\n
+Evitar dietas restritivas: Dietas muito baixas em calorias podem desacelerar o metabolismo como uma resposta de sobrevivência do corpo. Manter uma ingestão calórica adequada é importante para um metabolismo saudável.\n
+Consumir café ou chá verde: A cafeína no café e os catequinas no chá verde podem aumentar temporariamente o metabolismo. No entanto, o consumo deve ser moderado.\n
+Comer pequenas refeições ao longo do dia: Comer pequenas refeições ou lanches saudáveis em intervalos regulares pode ajudar a manter o metabolismo ativo, evitando longos períodos de jejum.\n
+Gerenciamento do estresse: O estresse crônico pode levar a alterações hormonais que afetam negativamente o metabolismo. Técnicas de relaxamento, como meditação, yoga e respiração profunda, podem ajudar a gerenciar o estresse.\n
+Implementar essas dicas pode ajudar a manter seu metabolismo funcionando de maneira eficaz, contribuindo para uma melhor saúde e bem-estar geral.</string>
+
+
+    <string name="text_titleDica">Associação propõe novos critérios para diagnóstico e tratamento de obesidade</string>
+    <string name="text2">O Índice de Massa Corporal (IMC) é uma das principais ferramentas utilizadas atualmente\n
+        para o diagnóstico da obesidade. Obtido através do peso e da altura de uma pessoa, o índice aponta níveis\n
+        de magreza, sobrepeso e grau de obesidade, norteando o trabalho de profissionais de saúde. No entanto,\n
+        um artigo publicado nesta sexta-feira (5) na Nature Medicine sugere que o sistema é “insuficiente” e outros\n
+        critérios devem ser levados em conta para diagnosticar e controlar a doença.
+    </string>
+    <string name="titlo3">O que o artigo propõe para o diagnóstico de obesidade?</string>
+    <string name="text3">Novas recomendações propostas para o tratamento Segundo os autores do artigo da AESO, os pilares para o tratamento da obesidade recomendados no documento aderem\n
+        substancialmente às diretrizes atuais disponíveis. Isso inclui modificações comportamentais, como terapia\n
+        nutricional, atividade física, redução do estresse e melhora do sono, além de terapia psicológica, medicamentos\n
+        para obesidade e procedimentos metabólicos ou bariátricos. No entanto, para as duas últimas opções (medicamentos\n
+        e procedimentos para obesidade), o comitê diretor da associação discutiu que as diretrizes atuais se baseiam em\n
+        ensaios clínicos, nos quais os critérios de inclusão foram baseados em valores de corte antropométricos, em vez\n
+        de uma avaliação clínica completa. Na p ática atual, a aplicação rigorosa desses critérios baseados em evidências\n
+        impede o uso de medicamentos para obesidade ou procedimentos metabólicos e/ou bariátricos em pacientes com uma carga\n
+        substancial de doença por obesidade, mas com valores baixos de IMC.Por isso, os membros do comitê propuseram que, em\n
+        particular, o uso de medicamentos para obesidade deve ser considerado em pacientes com:</string>
+<string name="titlo4"> Federação Mundial da Obesidade</string>
+<string name="text4">As taxas de obesidade estão aumentando de forma particularmente rápida\n
+    entre as crianças e em países de baixa renda, segundo o relatório. Descrevendo os dados como\n
+    um “alerta claro”, Louise Baur, presidente da Federação Mundial da Obesidade, disse que os formuladores\n
+    de políticas públicas precisam agir agora para evitar que a situação piore.
+
+Leia mais</string>
+
+    <string name="farma1">Drogaria e Farmácia</string>
+    <string name="avaliacao">Farmácia • 350 m</string>
+    <string name="endereco">Av. Sapopemba, 9378 •  ♿</string>
+    <string name="status"><font color="#F4EF0D2C">Fechado</font> • Abre às 08:00 •</string>
+
+    <string name="farma2">M Drogarias </string>
+    <string name="avaliacao2">Farmácia • 700 m</string>
+    <string name="endereco2">Av. Sapopemba, 9020 • ♿  </string>
+    <string name="status2"><font color="#F4044504">Aberto</font> • Fecha às 00:00 </string>
+
+    <string name="farma3">Drogaleste</string>
+    <string name="avaliacao3">Farmácia • 850 m</string>
+    <string name="endereco3">Avenida. Pres Vilanov, 11•♿</string>
+    <string name="status3"><font color="#F4044504">Aberto 24 horas</font></string>
+
+    <string name="farma4">Drogaria Mais Popular</string>
+    <string name="avaliacao4">Farmácia • 1,3 km</string>
+    <string name="endereco4">Av. Luís Pires, 111 • ♿  </string>
+    <string name="status4"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+    <string name="farma5">Drogaria Poupa \nMais Madalena</string>
+    <string name="avaliacao5">Farmácia • 550 m</string>
+    <string name="endereco5">Av. Manuel candido,110 • ♿</string>
+    <string name="status5"><font color="#F4044504">Aberto</font> • Fecha às 22:00 </string>
+
+    <string name="farma6">Drogasil</string>
+    <string name="avaliacao6">5,0 ⭐⭐⭐⭐⭐ (5)      </string>
+    <string name="endereco6">Farmácia • ♿ • Av. das\n Nações, 2171 </string>
+    <string name="status6"><font color="#F4044504">Aberto</font> • Fecha às 22:00\n(11)94320-2616 </string>
+
+    <string name="farma7">Drogaria e Farmácia\nFarmelhor Jd.Grimaldi</string>
+    <string name="avaliacao7">Farmácia • 350 m</string>
+    <string name="endereco7">Av. Sapopemba, 9378 • ♿</string>
+    <string name="status7"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+    <string name="farma8">Farmácia e Drogaria\nGuiland Jd.Grimaldi</string>
+    <string name="avaliacao8">Farmácia • 350 m</string>
+    <string name="endereco8">Av. Sapopemba, 9378 • ♿</string>
+    <string name="status8"><font color="#F4EF0D2C">Fechado</font> • Abre às 20:00 </string>
+
+    <string name="farma9">Drogaria e Farmácia\nFarmelho Jd.Grimaldi</string>
+    <string name="avaliacao9">Farmácia • 550 m</string>
+    <string name="endereco9">Av. Sapopemba, 545 • ♿</string>
+    <string name="status9"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+    <string name="farma10">Drogaria Poupalimpa \nMais Madalena</string>
+    <string name="avaliacao10">Farmácia • 482 m</string>
+    <string name="endereco10">Av. Adutora, 3051 • ♿</string>
+    <string name="status10"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+    <string name="farma11">Farmácia S Sebastião</string>
+    <string name="avaliacao11">Farmácia • 150 m</string>
+    <string name="endereco11">Av. Preste Maia,625 • ♿</string>
+    <string name="status11"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+    <string name="farma12">Farmácia São Vicente</string>
+    <string name="avaliacao12">Farmácia • 900 m</string>
+    <string name="endereco12">R. Felício, 9378 • ♿</string>
+    <string name="status12"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+    <string name="farma13">Drogaria e Farmácia\nFarmelhor Jd.Grimaldi</string>
+    <string name="avaliacao13">Farmácia • 200 m</string>
+    <string name="endereco13">Av. Sapopemba, 9378 • ♿</string>
+    <string name="status13"><font color="#F4044504">Aberto</font> • Fecha às 20:00 </string>
+
+
+</resources>

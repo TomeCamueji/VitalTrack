@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/azul_clar">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="411dp"
+        android:layout_height="124dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <ImageView
+            android:id="@+id/titlte"
+            android:layout_width="74dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/meditacao"
+            app:layout_constraintStart_toStartOf="@id/constraintLayout"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/white" />
+
+        <TextView
+            android:id="@+id/txt_track"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-black"
+            android:text="VitalTrack"
+            android:textColor="@color/white"
+            android:textSize="45dp"
+            app:layout_constraintEnd_toEndOf="@id/constraintLayout"
+            app:layout_constraintHorizontal_bias="0.161"
+            app:layout_constraintStart_toEndOf="@id/titlte"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="4dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/Title"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            app:layout_constraintStart_toEndOf="@id/titlte"
+            app:layout_constraintTop_toBottomOf="@id/txt_track" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/c3"
+        android:layout_width="410dp"
+        android:layout_height="616dp"
+        android:background="@drawable/backgroundrecy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/constraintLayout">
+
+        <TextView
+            android:id="@+id/text_imc"
+            android:layout_width="365dp"
+            android:layout_height="140dp"
+            android:layout_margin="28dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/imc_inf"
+            android:textAlignment="center"
+            android:textColor="@color/azul_clar"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@id/c3"
+            app:layout_constraintStart_toStartOf="@id/c3"
+            app:layout_constraintTop_toTopOf="@id/c3" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edit_Weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:background="@drawable/edit_drable"
+            android:drawableStart="@drawable/baseline_fitness_center_24"
+            android:drawablePadding="14dp"
+            android:hint="Digite seu Peso(kg)"
+            android:inputType="number"
+            android:padding="16dp"
+            android:textSize="23dp"
+            app:layout_constraintEnd_toEndOf="@id/c3"
+            app:layout_constraintStart_toStartOf="@id/c3"
+            app:layout_constraintTop_toBottomOf="@id/text_imc" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edit_height"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:background="@drawable/edit_drable"
+            android:drawableStart="@drawable/baseline_height_24"
+            android:drawablePadding="14dp"
+            android:hint="Digite sua altura (cm)"
+            android:inputType="number"
+            android:padding="16dp"
+            android:textSize="22dp"
+            app:layout_constraintEnd_toEndOf="@id/c3"
+            app:layout_constraintStart_toStartOf="@id/c3"
+            app:layout_constraintTop_toBottomOf="@id/edit_Weight" />
+
+        <Button
+            android:id="@+id/btn_calcular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/edit_height"
+            app:layout_constraintStart_toStartOf="@id/c3"
+            app:layout_constraintEnd_toEndOf="@id/c3"
+            android:layout_marginTop="35dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:text="Calcular"
+            android:padding="16dp"
+            android:background="@drawable/edit_botton"
+            />
+
+        <ImageView
+            android:id="@+id/more_item"
+            android:layout_width="340dp"
+            android:layout_height="61dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="30dp"
+            android:background="#EFEFEF"
+            android:padding="20dp"
+            android:paddingStart="300dp"
+            android:paddingEnd="0dp"
+            android:src="@drawable/baseline_more_vert_24"
+            app:layout_constraintEnd_toEndOf="@id/c3"
+            app:layout_constraintStart_toStartOf="@id/c3"
+            app:layout_constraintTop_toBottomOf="@id/btn_calcular" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
